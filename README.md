@@ -3,19 +3,8 @@
 > 使用晶片：**AMB82-mini**（機器人主控制器）｜邊緣 AI：**Google Edge AI Gemma4-E2B**
 > 靈感範例：[AI-plush-giraffe](https://github.com/rkuo2000/AI-plush-giraffe)
 
-## 成品示意圖（AI 合成）
+<img width="1536" height="1024" alt="messageImage_1793449208649" src="https://github.com/user-attachments/assets/1b4a77ce-e03e-4e08-9f32-fa2fbb8c3487" />
 
-> 請將下列提示詞貼到 ChatGPT / Gemini 等圖像生成工具，產生圖片後存成 `images/chameleon.png`，再取消下一行註解。
-
-<!-- ![AI Chameleon Robot](images/chameleon.png) -->
-
-**圖片提示詞（Prompt）：**
-```
-A cute palm-sized chameleon robot toy with soft fabric body and LED skin that
-glows in gradient colors (green to blue), two independently rotating round eyes
-with tiny cameras, small wheels hidden under the belly, curled tail, studio
-product photo, white background, soft lighting
-```
 
 ## 專案簡介
 
