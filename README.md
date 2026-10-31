@@ -1,7 +1,6 @@
 # 🦎 AI Chameleon Robot：邊緣運算智慧變色龍機器人
 
 > 使用晶片：**AMB82-mini**（機器人主控制器）｜邊緣 AI：**Google Edge AI Gemma4-E2B**
-> 靈感範例：[AI-plush-giraffe](https://github.com/rkuo2000/AI-plush-giraffe)
 
 <img width="1536" height="1024" alt="messageImage_1793449208649" src="https://github.com/user-attachments/assets/1b4a77ce-e03e-4e08-9f32-fa2fbb8c3487" />
 
