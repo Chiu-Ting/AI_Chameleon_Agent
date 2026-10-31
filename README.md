@@ -76,8 +76,7 @@ flowchart LR
 
 本專案採**混合式**設計。
 
-## 專案結構（建議）
-
+## 專案結構
 ```
 ├── PROPOSAL.md
 ├── README.md
