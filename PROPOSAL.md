@@ -1,9 +1,9 @@
 # PROPOSAL：邊緣運算智慧變色龍機器人（AI Chameleon Agent）
 
-> **使用晶片：AMB82-mini（Realtek）作為機器人主控制器**
-> **邊緣 AI 模型：Google Edge AI Gemma4-E2B（於手機 Edge AI App 端執行）**
-> **組員：** 邱筠婷、張詠晴
-> **是否願意參與瑞昱科技計畫評審：**  願意
+**使用晶片：AMB82-mini（Realtek）作為機器人主控制器**
+**邊緣 AI 模型：Google Edge AI Gemma4-E2B（於手機 Edge AI App 端執行）**
+**組員：** 邱筠婷、張詠晴
+**是否願意參與瑞昱科技計畫評審：**  願意
 
 ---
 
